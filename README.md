@@ -13,6 +13,7 @@ These instructions will help you get the script up and running on your local mac
 - Python (3.x is recommended)
 - No additional Python libraries are required.
 
+
 ### Usage
 
 1. Clone the repository or download the script directly.
