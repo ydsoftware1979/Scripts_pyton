@@ -6,6 +6,7 @@ import logging
 
 # Carrega e configura as Variaveis
 
+
 ip_address = '172.16.31.121'
 community_string = 'public'
 oid_bateria = ObjectIdentity('iso.3.6.1.2.1.33.1.3.3.1.3.1')
